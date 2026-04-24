@@ -1,0 +1,6 @@
+Sample Output:
+
+Element found at position 3
+Total time taken: 0.000001 seconds
+
+Result: Thus the given element was searched successfully using Recursive Linear Search and the execution time was measured.

@@ -1,0 +1,6 @@
+Sample Output:
+
+Sorted array:
+1 2 3 4 7
+
+Result: Thus, the given list of elements is sorted successfully using the Randomized Quick Sort algorithm.
